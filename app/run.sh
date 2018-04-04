@@ -11,4 +11,4 @@ fi
 
 cd /home/runner/artifacts
 
-npm start
+yarn start
